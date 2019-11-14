@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="DELETE" field="u_what_needed" table="x_58872_needit_needit" version="3">
+        <sys_choice_set action="DELETE">
+            <element>u_what_needed</element>
+            <name>x_58872_needit_needit</name>
+            <sys_class_name/>
+            <sys_created_by/>
+            <sys_created_on/>
+            <sys_id/>
+            <sys_mod_count/>
+            <sys_name/>
+            <sys_package/>
+            <sys_policy/>
+            <sys_scope/>
+            <sys_update_name/>
+            <sys_updated_by/>
+            <sys_updated_on>2019-11-13 16:43:03</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application/>
+        <file_path/>
+        <instance_id>2f360b00dbac5bc01ddcf22ebf9619f3</instance_id>
+        <instance_name>dev50437</instance_name>
+        <name>sys_choice_x_58872_needit_needit_u_what_needed</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_choice action="DELETE" field="u_what_needed" table="x_58872_needit_needit" version="3"><sys_choice_set action="DELETE"><element>u_what_needed</element><name>x_58872_needit_needit</name><sys_class_name/><sys_created_by/><sys_created_on/><sys_id/><sys_mod_count/><sys_name/><sys_package/><sys_policy/><sys_scope/><sys_update_name/><sys_updated_by/><sys_updated_on>2019-11-13 16:43:03</sys_updated_on></sys_choice_set></sys_choice></record_update>]]></payload>
+        <payload_hash>-429457270</payload_hash>
+        <record_name>x_58872_needit_needit.What needed</record_name>
+        <reverted_from/>
+        <source>5a6eddf44f4900105673417da310c7c2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-13 16:43:03</sys_created_on>
+        <sys_id>ef713a924f0d00105673417da310c7d2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16e65a5a0700000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-13 16:43:03</sys_updated_on>
+        <type>Choice list</type>
+        <update_guid>6b713a92e10d0010effc621ba00b54d2</update_guid>
+        <update_guid_history>6b713a92e10d0010effc621ba00b54d2:-429457270,63713a92250d0010a90430846c22fed0:-915848390,2f713a92700d001028efa7344541e3cd:-567701384,a7713a92300d0010009f83699f21fccb:-1423691141,ef713a925f0d0010a9b30187b18b56c8:-709049971,23713a92980d0010460a11abc48d59ba:-1389990280,e7713a92a10d0010222c6d90fdcd2bb7:221069324,6f713a92f10d001068d0ff64b55ab6b4:115963504,a3713a92420d0010a632f41ba84ee1b2:-495418659,30f119787049001076475515dbc63f30:0,46e155787d490010080a0a40d71593c5:-429457270,4ee1557868490010492ed423022763c2:-915848390,0ae1557886490010c07bc53b3a322dc0:-567701384,82e155789e4900104397ca0f7fa013be:-1423691141,cae15578f3490010b324f9d1b63adabb:-709049971,c2e15578c84900106b02c9bff8f755b9:-1389990280,8ae155783c490010d10ef8dacad686b6:221069324,02e155781449001010d73956ea85bdb4:115963504,46e15578074900101658e88e558624b1:-495418659,67efe4ab83d0001048a0f7725bfbca2f:1889360858</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2019-11-13 16:43:15</sys_created_on>
+        <sys_db_object display_value="" name="sys_choice_set">sys_choice_set</sys_db_object>
+        <sys_id>0e81fa924f0d00105673417da310c722</sys_id>
+        <sys_metadata>0e81fa924f0d00105673417da310c722</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_what_needed</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_choice_x_58872_needit_needit_u_what_needed</sys_update_name>
+        <sys_update_version display_value="sys_choice_x_58872_needit_needit_u_what_needed">ef713a924f0d00105673417da310c7d2</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2019-11-13 16:43:15</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
